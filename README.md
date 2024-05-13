@@ -43,13 +43,21 @@ Chúng tôi luôn mong muốn nhận được phản hồi và góp ý từ ngư
 
 Cảm ơn bạn đã sử dụng Đa Xe. Chúc bạn có những tr# README.md cho Ứng Dụng Đặt Xe Đa Nhà Cung Cấp
 
-Dưới đây là bảng so sánh đã được cập nhật với thông tin thêm về giá mỗi kilomet cho mỗi dịch vụ gọi xe, Grab và Uber:
+### Dưới đây là bảng so sánh các nhà cung cấp từ #1 đến #12 với các thông số "Chất lượng dịch vụ", "Thời gian chờ xe", "Giá / km", "Số chuyến thực hiện trong ngày", và "Phí dịch vụ". Giá trị trong mỗi ô là giả định để minh họa.
 
-| Tiêu Chí         | Grab          | Uber          |
-|------------------|---------------|---------------|
-| Số Chuyến        | 12 chuyến     | 10 chuyến     |
-| Đánh Giá         | 5/5 sao       | 4/5 sao       |
-| Thời Gian Đáp Ứng | 5 phút        | 10 phút       |
-| Giá / km         | 8.000đ        | 10.000đ       |
+| Nhà cung cấp | Chất lượng dịch vụ | Thời gian chờ xe (phút) | Giá / km (đồng) | Số chuyến thực hiện trong ngày | Phí dịch vụ (đồng) |
+|--------------|---------------------|-------------------------|------------------|--------------------------------|--------------------|
+| #1           | 4.5/5               | 5                       | 12,000           | 150                            | 2,000              |
+| #2           | 4.0/5               | 7                       | 11,000           | 180                            | 1,500              |
+| #3           | 3.5/5               | 6                       | 10,500           | 160                            | 1,800              |
+| #4           | 4.2/5               | 4                       | 12,500           | 200                            | 2,500              |
+| #5           | 3.8/5               | 8                       | 9,000            | 140                            | 1,200              |
+| #6           | 4.0/5               | 7                       | 11,500           | 170                            | 2,200              |
+| #7           | 4.1/5               | 5                       | 10,000           | 190                            | 1,700              |
+| #8           | 3.7/5               | 9                       | 9,500            | 130                            | 1,000              |
+| #9           | 4.3/5               | 3                       | 13,000           | 210                            | 2,300              |
+| #10          | 3.9/5               | 6                       | 8,500            | 120                            | 900                |
+| #11          | 4.4/5               | 4                       | 11,700           | 200                            | 2,100              |
+| #12          | 4.6/5               | 2                       | 14,000           | 220                            | 2,800              |
 
-Bảng này giúp so sánh chi tiết hơn về hiệu suất, giá cả và chất lượng dịch vụ giữa Grab và Uber. Grab không chỉ có đánh giá cao và thời gian đáp ứng nhanh hơn, mà còn có giá thành thấp hơn so với Uber.
+Lưu ý: Các giá trị trong bảng này là ngẫu nhiên và chỉ mang tính chất minh họa. Trong thực tế, bạn cần thu thập dữ liệu chính xác từ từng nhà cung cấp để có bảng so sánh có giá trị thực sự.
