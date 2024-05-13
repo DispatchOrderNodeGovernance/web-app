@@ -42,3 +42,14 @@ Nếu có bất kỳ thắc mắc hoặc vấn đề gì về ứng dụng, bạ
 Chúng tôi luôn mong muốn nhận được phản hồi và góp ý từ người dùng để cải thiện ứng dụng. Bạn có thể gửi phản hồi của mình thông qua phần “Góp Ý” trong ứng dụng hoặc qua email.
 
 Cảm ơn bạn đã sử dụng Đa Xe. Chúc bạn có những tr# README.md cho Ứng Dụng Đặt Xe Đa Nhà Cung Cấp
+
+Dưới đây là bảng so sánh đã được cập nhật với thông tin thêm về giá mỗi kilomet cho mỗi dịch vụ gọi xe, Grab và Uber:
+
+| Tiêu Chí         | Grab          | Uber          |
+|------------------|---------------|---------------|
+| Số Chuyến        | 12 chuyến     | 10 chuyến     |
+| Đánh Giá         | 5/5 sao       | 4/5 sao       |
+| Thời Gian Đáp Ứng | 5 phút        | 10 phút       |
+| Giá / km         | 8.000đ        | 10.000đ       |
+
+Bảng này giúp so sánh chi tiết hơn về hiệu suất, giá cả và chất lượng dịch vụ giữa Grab và Uber. Grab không chỉ có đánh giá cao và thời gian đáp ứng nhanh hơn, mà còn có giá thành thấp hơn so với Uber.
