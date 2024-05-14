@@ -1,0 +1,34 @@
+{
+  "currentLocation": {
+    "latitude": 10.776889,
+    "longitude": 106.700806
+  },
+  "vehicleType": "Car",
+  "numPassengers": 2,
+  "services": {
+    "rideMatching": {
+      "endpoints": [
+        "https://api1.grab.com/ride-matching",
+        "https://api2.grab.com/ride-matching"
+      ]
+    },
+    "location": {
+      "endpoints": [
+        "https://api1.grab.com/location",
+        "https://api2.grab.com/location"
+      ]
+    },
+    "tripManagement": {
+      "endpoints": [
+        "https://api1.grab.com/trip-management",
+        "https://api2.grab.com/trip-management"
+      ]
+    },
+    "notification": {
+      "endpoints": [
+        "https://api1.grab.com/notification",
+        "https://api2.grab.com/notification"
+      ]
+    }
+  }
+}
